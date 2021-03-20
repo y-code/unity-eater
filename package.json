@@ -1,0 +1,22 @@
+{
+  "name": "com.ycode.eater",
+  "version": "1.0.0",
+  "displayName": "Y-code Eater Components",
+  "description": "This package provides components that implement eating behaviour.",
+  "unity": "2019.1",
+  "unityRelease": "0b5",
+  "dependencies": {
+    "com.unity.textmeshpro": "2.1.1"
+  },
+  "keywords": [
+    "eater",
+    "eating",
+    "eat"
+  ],
+  "author": {
+    "name": "Y-code",
+    "email": "ycode.laboratory@gmail.com",
+    "url": "https://y-code-lab.herokuapp.com"
+  },
+  "type": "library"
+}
