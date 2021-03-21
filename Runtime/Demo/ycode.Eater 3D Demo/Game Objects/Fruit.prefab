@@ -286,7 +286,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   CalorieByServing: 1
-  Servings: 40
+  Servings: 20
   CalorieDisplay: {fileID: 1469800667231519300}
 --- !u!114 &5634154382253369760
 MonoBehaviour:
